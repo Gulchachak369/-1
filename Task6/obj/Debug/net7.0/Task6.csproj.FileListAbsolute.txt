@@ -1,0 +1,15 @@
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#3\Task6\bin\Debug\net7.0\Task6.exe
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#3\Task6\bin\Debug\net7.0\Task6.deps.json
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#3\Task6\bin\Debug\net7.0\Task6.runtimeconfig.json
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#3\Task6\bin\Debug\net7.0\Task6.dll
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#3\Task6\bin\Debug\net7.0\Task6.pdb
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#3\Task6\obj\Debug\net7.0\Task6.csproj.AssemblyReference.cache
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#3\Task6\obj\Debug\net7.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#3\Task6\obj\Debug\net7.0\Task6.AssemblyInfoInputs.cache
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#3\Task6\obj\Debug\net7.0\Task6.AssemblyInfo.cs
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#3\Task6\obj\Debug\net7.0\Task6.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#3\Task6\obj\Debug\net7.0\Task6.dll
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#3\Task6\obj\Debug\net7.0\refint\Task6.dll
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#3\Task6\obj\Debug\net7.0\Task6.pdb
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#3\Task6\obj\Debug\net7.0\Task6.genruntimeconfig.cache
+C:\Users\Руслан\Desktop\Гульчачак\GeekBrains\C#3\Task6\obj\Debug\net7.0\ref\Task6.dll
